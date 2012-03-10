@@ -1,0 +1,2 @@
+A Clojure skeleton for running Google's [[http://code.google.com/p/playn/][PlayN]] (specifically, the
+desktop target).
