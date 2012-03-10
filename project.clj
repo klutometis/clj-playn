@@ -6,5 +6,4 @@
   :dependencies [[org.clojure/clojure "1.3.0"]
                  [com.googlecode.playn/playn-core "1.1"]
                  [com.googlecode.playn/playn-java "1.1"]]
-  :main clj-playn
-  )
+  :main clj-playn)
