@@ -20,7 +20,7 @@
 
 (defn -init [this]
   (let [image (.getImage (PlayN/assets) "feynman.png")
-        layer (.createImageLayer (PlayN/graphics))]
+        layer (.createImageLayer (PlayN/graphics) image)]
     (.add (.rootLayer (PlayN/graphics)) layer)))
 
 (defn -update [this delta])
